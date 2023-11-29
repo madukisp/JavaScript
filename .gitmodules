@@ -1,0 +1,3 @@
+[submodule "caminho/local"]
+	path = caminho/local
+	url = https://github.com/madukisp/ar-condicionado
