@@ -1,3 +1,6 @@
-[submodule "caminho/local"]
-	path = caminho/local
+[submodule "ar-condicionado"]
+	path = ar-condicionado
 	url = https://github.com/madukisp/ar-condicionado
+[submodule "validacao-de-voz"]
+	path = validacao-de-voz
+	url = https://github.com/madukisp/validacao-de-voz
