@@ -4,3 +4,27 @@
 [submodule "validacao-de-voz"]
 	path = validacao-de-voz
 	url = https://github.com/madukisp/validacao-de-voz
+[submodule "p5.collide2D"]
+	path = p5.collide2D
+	url = git@github.com:madukisp/p5.collide2D.git
+[submodule "organo"]
+	path = organo
+	url = git@github.com:madukisp/organo.git
+[submodule "todolist"]
+	path = todolist
+	url = git@github.com:madukisp/todolist.git
+[submodule "missao-pratica3"]
+	path = missao-pratica3
+	url = git@github.com:madukisp/missao-pratica3.git
+[submodule "convite-alicia"]
+	path = convite-alicia
+	url = git@github.com:madukisp/convite-alicia.git
+[submodule "js-logica-iniciante"]
+	path = js-logica-iniciante
+	url = git@github.com:madukisp/js-logica-iniciante.git
+[submodule "desafio-logica"]
+	path = desafio-logica
+	url = git@github.com:madukisp/desafio-logica.git
+[submodule "react-chatgpt-clone"]
+	path = react-chatgpt-clone
+	url = git@github.com:madukisp/react-chatgpt-clone.git
